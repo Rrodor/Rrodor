@@ -1,4 +1,4 @@
-### Welcome Romeo Rodor's github page!
+### Welcome to Romeo Rodor's github page!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rrodor&show_icons=true&theme=dark)
 
