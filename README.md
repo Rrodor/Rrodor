@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roméo Rodor</h1>
 <h3 align="center">I'm a young developer from 42 school</h3>
 
-- 🌱 I’m currently learning **python and the base of AI algorythm**
+- 🌱 I’m currently learning **python and the base of AI algorithm**
 
 - 📫 How to reach me **romeo.rodor@gmail.com**
 
